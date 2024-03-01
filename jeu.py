@@ -8,7 +8,7 @@ count = 0
 score = random_2-random_1
 
 prix = random.randint(random_1,random_2)
-# print(prix) #le print prix sera a supprimer1
+# print(prix) #le print prix sera a supprimer
 
 
 while True :
